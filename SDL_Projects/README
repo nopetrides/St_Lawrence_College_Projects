@@ -1,0 +1,2 @@
+These projects require SDL 2 and several extensions such as SDL Mixer, SDL Image, SDL TTF, etc.
+You must change your linker directories for the libs and dlls
